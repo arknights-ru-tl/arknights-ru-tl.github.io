@@ -20,10 +20,8 @@ const ASSET_SOURCE = {
 
 // do not modify SERVERS even if you change data source as this is used locally as well.
 const SERVERS = {
-  EN: "en_US",
-  JP: "ja_JP",
-  KR: "ko_KR",
-  CN: "zh_CN",
+  RU: "ru_RU",
+  EN: "en_US"
 };
 // data URI gen:
 function uri_sound(soundpath, source = ASSET_SOURCE.LOCAL) {
