@@ -1,7 +1,7 @@
 const DATA_SOURCE =
   "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/";
 const DATA_SOURCE_YOSTAR =
-  "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/";
+  "https://raw.githubusercontent.com/arknights-ru-tl/arknights-gamedata/main/";
 const USE_ALTERNATE_DATA_SOURCE = true; // use ArknightsAssets instead of ArknightsGameData
 // const DATA_SOURCE =
 //   "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/gamedata/";
